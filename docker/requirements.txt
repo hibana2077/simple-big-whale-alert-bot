@@ -1,0 +1,7 @@
+ccxt
+requests
+pandas
+fake_useragent
+aiohttp
+beautifulsoup4
+websocket-client
