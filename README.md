@@ -1,5 +1,19 @@
+<!--
+ * @Author: hibana2077 hibana2077@gmail.com
+ * @Date: 2023-07-26 22:38:58
+ * @LastEditors: hibana2077 hibana2077@gmail.com
+ * @LastEditTime: 2023-07-27 12:14:04
+ * @FilePath: \simple-big-whale-alert-bot\README.md
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
 
 # Simple Big Whale Alert Bot
+
+![GitHub](https://img.shields.io/github/license/hibana2077/simple-big-whale-alert-bot)
+![GitHub last commit](https://img.shields.io/github/last-commit/hibana2077/simple-big-whale-alert-bot)
+![GitHub issues](https://img.shields.io/github/issues/hibana2077/simple-big-whale-alert-bot)
+![GitHub stars](https://img.shields.io/github/stars/hibana2077/simple-big-whale-alert-bot?style=social)
+![GitHub forks](https://img.shields.io/github/forks/hibana2077/simple-big-whale-alert-bot?style=social)
 
 ## Introduction
 
