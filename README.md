@@ -2,7 +2,7 @@
  * @Author: hibana2077 hibana2077@gmail.com
  * @Date: 2023-07-26 22:38:58
  * @LastEditors: hibana2077 hibana2077@gmail.com
- * @LastEditTime: 2023-07-27 12:14:04
+ * @LastEditTime: 2023-07-27 12:20:32
  * @FilePath: \simple-big-whale-alert-bot\README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -16,6 +16,9 @@
 ![GitHub forks](https://img.shields.io/github/forks/hibana2077/simple-big-whale-alert-bot?style=social)
 
 ## Introduction
+
+![python](https://img.shields.io/badge/python-3.10-blue?style=plastic-square&logo=python)
+![docker](https://img.shields.io/badge/docker-20.10.8-2496ED?style=plastic-square&logo=docker)
 
 This is a simple bot designed to alert users about significant cryptocurrency transactions, also known as "whale" transactions. It's a great tool for crypto traders and enthusiasts who want to stay updated about major market movements.
 
