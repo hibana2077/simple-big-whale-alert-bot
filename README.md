@@ -48,9 +48,17 @@ Run the script with the following command:
 python main.py -at <Alchemy token> -d <Discord webhook URL> -th <Threshold>
 ```
 
+or use docker image:
+
+```bash
+docker run -d --name mybot -e ALCHEMY_TOKEN=<Alchemy token> -e DISCORD_WEBHOOK_URL=<Discord webhook URL> -e THRESHOLD=<Threshold> hibana2077/sbwab
+```
+
 [Get your Alchemy token here](https://alchemy.com/?r=zM4ODUyNDkxNTY0O).
 
 [Get your Discord webhook URL here](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks).
+
+[Docker Hub](https://hub.docker.com/repository/docker/hibana2077/sbwab/general).
 
 ## License
 
